@@ -91,7 +91,7 @@ const Terms = () => {
                 <p>
                    For questions regarding these terms, please contact us at:<br />
                    Email: legal@unitedcapitallending.com<br />
-                   Phone: +1 (916) 258-2490<br />
+                   Phone: +1 (909)-978-8593<br />
                    Address: 15303 Ventura Blvd, Suite 850, Sherman Oaks, California 91403, United States
                 </p>
               </section>

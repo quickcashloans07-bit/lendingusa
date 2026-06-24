@@ -95,7 +95,7 @@ const Privacy = () => {
                 <p>
                    For questions or concerns about this privacy policy or our data practices, contact us at:<br />
                    Email: privacy@unitedcapitallending.com<br />
-                   Phone: +1 (916) 258-2490<br />
+                   Phone: +1 (909)-978-8593<br />
                    Address: 15303 Ventura Blvd, Suite 850, Sherman Oaks, California 91403, United States
                 </p>
               </section>
